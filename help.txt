@@ -1,0 +1,2 @@
+To find all Vanilla recipes in minecraft go to:
+External Libraries -> Gradle: net.minecraft:client:extra:120.X -> client-extra.jar -> data -> minecraft -> recipes
