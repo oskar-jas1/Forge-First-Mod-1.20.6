@@ -16,6 +16,16 @@
 
   "block.tutorialmod.sound_block": "Sound Block",
 
+  "item.tutorialmod.sapphire_stairs": "Sapphire Stairs",
+  "item.tutorialmod.sapphire_slab": "Sapphire Slab",
+  "item.tutorialmod.sapphire_button": "Sapphire Button",
+  "item.tutorialmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "item.tutorialmod.sapphire_fence": "Sapphire Fence",
+  "item.tutorialmod.sapphire_fence_gate": "Sapphire Fence Gate",
+  "item.tutorialmod.sapphire_wall": "Sapphire Wall",
+  "item.tutorialmod.sapphire_door": "Sapphire Door",
+  "item.tutorialmod.sapphire_trapdoor": "Sapphire Trapdoor",
+
   "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",
 
   "creativetab.tutorial_tab": "Sapphire Tutorial Tab test"
